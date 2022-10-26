@@ -11,8 +11,3 @@ Minerar os dados:
 ```sh
 go run ./cmd/fetch/fetch.go
 ```
-
-Leitura dos dados:
-```sh
-go run ./cmd/read/read.go
-```
